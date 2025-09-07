@@ -17,5 +17,5 @@ The dataset comes from Kaggle’s Toyota Corolla resale prices dataset.
 ## 🚀 How to Run
 1. Clone the repo:
 ```bash
-git clone https://github.com/yourusername/toyota-corolla-price-prediction.git
+git clone https://github.com/mohitphulwani/toyota-corolla-price-prediction.git
 
